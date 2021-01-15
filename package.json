@@ -1,0 +1,15 @@
+{
+  "name": "daniboy-pistola",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arthurtavaresdev/daniboy-pistola.git",
+  "author": "Arthur Tavares <arthurabreu00@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.7.1"
+  }
+}
